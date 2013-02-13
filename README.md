@@ -1,7 +1,8 @@
 Roumpoutsos Nikolaos 
 Sapountzis Ioannis 
+
 ========================================================================
-README file - Advanced Level
+README file 
 ========================================================================
 Delivered files:
 ----------------
