@@ -1,5 +1,5 @@
-*Roumpoutsos Nikolaos 
-*Sapountzis Ioannis 
+Roumpoutsos Nikolaos 
+Sapountzis Ioannis 
 ========================================================================
 README file - Advanced Level
 ========================================================================
